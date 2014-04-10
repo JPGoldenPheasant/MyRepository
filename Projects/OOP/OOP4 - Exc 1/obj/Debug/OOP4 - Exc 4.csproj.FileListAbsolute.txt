@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\OOP\OOP4 - Exc 1\obj\Debug\OOP4 - Exc 4.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\OOP\OOP4 - Exc 1\bin\Debug\OOP4 - Exc 1.exe.config
+D:\Visual Studio 2013\Projects\OOP\OOP4 - Exc 1\bin\Debug\OOP4 - Exc 1.exe
+D:\Visual Studio 2013\Projects\OOP\OOP4 - Exc 1\bin\Debug\OOP4 - Exc 1.pdb
+D:\Visual Studio 2013\Projects\OOP\OOP4 - Exc 1\obj\Debug\OOP4 - Exc 1.exe
+D:\Visual Studio 2013\Projects\OOP\OOP4 - Exc 1\obj\Debug\OOP4 - Exc 1.pdb

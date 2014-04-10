@@ -1,0 +1,12 @@
+D:\Visual Studio 2013\Projects\OOP2 - Klasser\Excersise 2\bin\Debug\Excersise 2.exe.config
+D:\Visual Studio 2013\Projects\OOP2 - Klasser\Excersise 2\bin\Debug\Excersise 2.exe
+D:\Visual Studio 2013\Projects\OOP2 - Klasser\Excersise 2\bin\Debug\Excersise 2.pdb
+D:\Visual Studio 2013\Projects\OOP2 - Klasser\Excersise 2\obj\Debug\Excersise 2.exe
+D:\Visual Studio 2013\Projects\OOP2 - Klasser\Excersise 2\obj\Debug\Excersise 2.pdb
+D:\Visual Studio 2013\Projects\OOP2 - Klasser\Excersise 2\obj\Debug\Excersise 2.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\OOP2-3 - ClassesNedarvningPolymorph\Excersise 2\bin\Debug\Excersise 2.exe.config
+D:\Visual Studio 2013\Projects\OOP2-3 - ClassesNedarvningPolymorph\Excersise 2\obj\Debug\Excersise 2.exe
+D:\Visual Studio 2013\Projects\OOP2-3 - ClassesNedarvningPolymorph\Excersise 2\obj\Debug\Excersise 2.pdb
+D:\Visual Studio 2013\Projects\OOP2-3 - ClassesNedarvningPolymorph\Excersise 2\obj\Debug\Excersise 2.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\OOP2-3 - ClassesNedarvningPolymorph\Excersise 2\bin\Debug\Excersise 2.exe
+D:\Visual Studio 2013\Projects\OOP2-3 - ClassesNedarvningPolymorph\Excersise 2\bin\Debug\Excersise 2.pdb

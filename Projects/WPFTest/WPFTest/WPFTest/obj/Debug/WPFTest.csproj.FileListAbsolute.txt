@@ -1,0 +1,15 @@
+D:\Visual Studio 2013\Projects\WPFTest\WPFTest\WPFTest\bin\Debug\WPFTest.exe.config
+D:\Visual Studio 2013\Projects\WPFTest\WPFTest\WPFTest\bin\Debug\WPFTest.exe
+D:\Visual Studio 2013\Projects\WPFTest\WPFTest\WPFTest\bin\Debug\WPFTest.pdb
+D:\Visual Studio 2013\Projects\WPFTest\WPFTest\WPFTest\obj\Debug\WPFTest.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\WPFTest\WPFTest\WPFTest\obj\Debug\MainWindow.baml
+D:\Visual Studio 2013\Projects\WPFTest\WPFTest\WPFTest\obj\Debug\MainWindow.g.cs
+D:\Visual Studio 2013\Projects\WPFTest\WPFTest\WPFTest\obj\Debug\App.g.cs
+D:\Visual Studio 2013\Projects\WPFTest\WPFTest\WPFTest\obj\Debug\WPFTest_MarkupCompile.cache
+D:\Visual Studio 2013\Projects\WPFTest\WPFTest\WPFTest\obj\Debug\WPFTest.g.resources
+D:\Visual Studio 2013\Projects\WPFTest\WPFTest\WPFTest\obj\Debug\WPFTest.Properties.Resources.resources
+D:\Visual Studio 2013\Projects\WPFTest\WPFTest\WPFTest\obj\Debug\WPFTest.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\Projects\WPFTest\WPFTest\WPFTest\obj\Debug\WPFTest.exe
+D:\Visual Studio 2013\Projects\WPFTest\WPFTest\WPFTest\obj\Debug\WPFTest.pdb
+D:\Visual Studio 2013\Projects\WPFTest\WPFTest\WPFTest\obj\Debug\Window1.baml
+D:\Visual Studio 2013\Projects\WPFTest\WPFTest\WPFTest\obj\Debug\Window1.g.cs

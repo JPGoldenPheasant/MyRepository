@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Enums\bin\Debug\Enums.exe.config
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Enums\bin\Debug\Enums.exe
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Enums\bin\Debug\Enums.pdb
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Enums\obj\Debug\Enums.exe
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Enums\obj\Debug\Enums.pdb

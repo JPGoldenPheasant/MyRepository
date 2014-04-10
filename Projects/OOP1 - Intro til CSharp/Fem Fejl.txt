@@ -1,0 +1,5 @@
+char a = "a"; Skal være ' ' 
+bool b = 0; Skal være true eller false
+int c = 8.0; type er int, værdi er double eller float
+decimal d = 6.7; skal have suffix, i dette tilfælde 6.7m 
+string e = "Har du set "Holger"?"; Skal være escape \"

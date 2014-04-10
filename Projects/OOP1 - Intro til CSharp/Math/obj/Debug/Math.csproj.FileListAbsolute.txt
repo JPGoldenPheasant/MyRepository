@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Math\bin\Debug\Math.exe.config
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Math\bin\Debug\Math.exe
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Math\bin\Debug\Math.pdb
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Math\obj\Debug\Math.exe
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Math\obj\Debug\Math.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Group list\bin\Debug\Group list.exe.config
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Group list\bin\Debug\Group list.exe
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Group list\bin\Debug\Group list.pdb
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Group list\obj\Debug\Group list.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Group list\obj\Debug\Group list.exe
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Group list\obj\Debug\Group list.pdb

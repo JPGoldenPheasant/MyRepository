@@ -1,0 +1,5 @@
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Loop\bin\Debug\Loop.exe.config
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Loop\bin\Debug\Loop.exe
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Loop\bin\Debug\Loop.pdb
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Loop\obj\Debug\Loop.exe
+D:\Visual Studio 2013\Projects\OOP1 - Intro til CSharp\Loop\obj\Debug\Loop.pdb
